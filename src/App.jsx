@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './Pages/Home/HOme'
+import Home from './Pages/Home/Home'
 import About from './Pages/About/About'
 import Ruslugat from './Pages/Ruslugat.jsx/Ruslugat'
 
