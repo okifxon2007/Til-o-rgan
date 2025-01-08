@@ -1,0 +1,292 @@
+{
+    "words": [
+      {
+        "id": 1,
+        "ru": "книга",
+        "uz": "kitob",
+        "incorrect_1": "kitab",
+        "incorrect_2": "quyosh"
+      },
+      {
+        "id": 2,
+        "ru": "дом",
+        "uz": "uy",
+        "incorrect_1": "to'rtburchak",
+        "incorrect_2": "daraxt"
+      },
+      {
+        "id": 3,
+        "ru": "работа",
+        "uz": "ish",
+        "incorrect_2": "o'qish",
+        "incorrect_1": "poyabzal"
+      },
+      {
+        "id": 4,
+        "ru": "машина",
+        "uz": "mashina",
+        "incorrect_1": "avtobus",
+        "incorrect_2": "poyezd"
+      },
+      {
+        "id": 5,
+        "ru": "работать",
+        "uz": "ishlash",
+        "incorrect_1": "o'qish",
+        "incorrect_2": "xona"
+      },
+      {
+        "id": 6,
+        "ru": "любовь",
+        "uz": "sevgi",
+        "incorrect_1": "nafrat",
+        "incorrect_2": "do'stlik"
+      },
+      {
+        "id": 7,
+        "ru": "счастье",
+        "uz": "baxt",
+        "incorrect_2": "baxtli",
+        "incorrect_1": "yomonlik"
+      },
+      {
+        "id": 8,
+        "ru": "письмо",
+        "uz": "xat",
+        "incorrect_1": "kitob",
+        "incorrect_2": "kompyuter"
+      },
+      {
+        "id": 9,
+        "ru": "стол",
+        "uz": "stol",
+        "incorrect_1": "stul",
+        "incorrect_2": "oyna"
+      },
+      {
+        "id": 10,
+        "ru": "стул",
+        "uz": "stul",
+        "incorrect_2": "stol",
+        "incorrect_1": "koyka"
+      },
+      {
+        "id": 11,
+        "ru": "окно",
+        "uz": "deraza",
+        "incorrect_2": "devor",
+        "incorrect_1": "esheyk"
+      },
+      {
+        "id": 12,
+        "ru": "дверь",
+        "uz": "eshik",
+        "incorrect_2": "deraza",
+        "incorrect_1": "kirish"
+      },
+      {
+        "id": 13,
+        "ru": "день",
+        "uz": "kun",
+        "incorrect_1": "kecha",
+        "incorrect_2": "tung"
+      },
+      {
+        "id": 14,
+        "ru": "ночь",
+        "uz": "tung",
+        "incorrect_2": "kuni",
+        "incorrect_1": "kecha"
+      },
+      {
+        "id": 15,
+        "ru": "утро",
+        "uz": "ertalab",
+        "incorrect_1": "kecha",
+        "incorrect_2": "kunduzi"
+      },
+      {
+        "id": 16,
+        "ru": "вечер",
+        "uz": "kechqurun",
+        "incorrect_1": "ertalab",
+        "incorrect_2": "yangi kun"
+      },
+      {
+        "id": 17,
+        "ru": "город",
+        "uz": "shahar",
+        "incorrect_2": "qishloq",
+        "incorrect_1": "tog'"
+      },
+      {
+        "id": 18,
+        "ru": "страна",
+        "uz": "davlat",
+        "incorrect_1": "shahar",
+        "incorrect_2": "hudud"
+      },
+      {
+        "id": 19,
+        "ru": "дерево",
+        "uz": "daraxt",
+        "incorrect_2": "gullamoq",
+        "incorrect_1": "chiroyli"
+      },
+      {
+        "id": 20,
+        "ru": "птица",
+        "uz": "qush",
+        "incorrect_1": "baliq",
+        "incorrect_2": "ajdarho"
+      },
+      {
+        "id": 21,
+        "ru": "собака",
+        "uz": "it",
+        "incorrect_1": "qush",
+        "incorrect_2": "mushuk"
+      },
+      {
+        "id": 22,
+        "ru": "кот",
+        "uz": "mushuk",
+        "incorrect_2": "it",
+        "incorrect_1": "qush"
+      },
+      {
+        "id": 23,
+        "ru": "любовь",
+        "uz": "sevgi",
+        "incorrect_2": "do'stlik",
+        "incorrect_1": "nafrat"
+      },
+      {
+        "id": 24,
+        "ru": "песня",
+        "uz": "qo'shiq",
+        "incorrect_1": "ashula",
+        "incorrect_2": "ryad"
+      },
+      {
+        "id": 25,
+        "ru": "игра",
+        "uz": "o'yin",
+        "incorrect_2": "hissiyot",
+        "incorrect_1": "uchrashuv"
+      },
+      {
+        "id": 26,
+        "ru": "солнце",
+        "uz": "quyosh",
+        "incorrect_1": "yulduz",
+        "incorrect_2": "yomg'ir"
+      },
+      {
+        "id": 27,
+        "ru": "вода",
+        "uz": "suv",
+        "incorrect_1": "qor",
+        "incorrect_2": "daryo"
+      },
+      {
+        "id": 28,
+        "ru": "молоко",
+        "uz": "sut",
+        "incorrect_2": "qahva",
+        "incorrect_1": "suv"
+      },
+      {
+        "id": 29,
+        "ru": "яблоко",
+        "uz": "olma",
+        "incorrect_2": "apelsin",
+        "incorrect_1": "banan"
+      },
+      {
+        "id": 30,
+        "ru": "хлеб",
+        "uz": "non",
+        "incorrect_1": "sut",
+        "incorrect_2": "pishiriq"
+      },
+      {
+        "id": 31,
+        "ru": "ресторан",
+        "uz": "restoran",
+        "incorrect_1": "kafe",
+        "incorrect_2": "oshxona"
+      },
+      {
+        "id": 32,
+        "ru": "погода",
+        "uz": "havo",
+        "incorrect_2": "quyosh",
+        "incorrect_1": "yomg'ir"
+      },
+      {
+        "id": 33,
+        "ru": "телефон",
+        "uz": "telefon",
+        "incorrect_1": "rasm",
+        "incorrect_2": "kompyuter"
+      },
+      {
+        "id": 34,
+        "ru": "книга",
+        "uz": "kitob",
+        "incorrect_1": "kitab",
+        "incorrect_2": "darslik"
+      },
+      {
+        "id": 35,
+        "ru": "фильм",
+        "uz": "film",
+        "incorrect_2": "kitob",
+        "incorrect_1": "spektakl"
+      },
+      {
+        "id": 36,
+        "ru": "театр",
+        "uz": "teatr",
+        "incorrect_1": "kino",
+        "incorrect_2": "kino"
+      },
+      {
+        "id": 37,
+        "ru": "телевизор",
+        "uz": "televideniye",
+        "incorrect_1": "kompyuter",
+        "incorrect_2": "telefon"
+      },
+      {
+        "id": 38,
+        "ru": "компьютер",
+        "uz": "kompyuter",
+        "incorrect_1": "telefon",
+        "incorrect_2": "planşet"
+      },
+      {
+        "id": 39,
+        "ru": "дом",
+        "uz": "uy",
+        "incorrect_2": "xona",
+        "incorrect_1": "mansion"
+      },
+      {
+        "id": 40,
+        "ru": "поезд",
+        "uz": "poezd",
+        "incorrect_1": "avtobus",
+        "incorrect_2": "mashina"
+      },
+      {
+        "id": 41,
+        "ru": "самолет",
+        "uz": "samolyot",
+        "incorrect_1": "poezd",
+        "incorrect_2": "avtobus"
+      }
+    ]
+  }
+  

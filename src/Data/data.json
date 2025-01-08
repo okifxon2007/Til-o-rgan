@@ -1,0 +1,670 @@
+{
+    "words": [
+      {
+        "id": 1,
+        "ru": "привет",
+        "uz": "salom",
+        "description": "Salom, odatda kimnidir kutib olish yoki diqqatni jalb qilish uchun ishlatiladi.",
+        "icon": "<i class='fas fa-hand-wave'></i>"
+      },
+      {
+        "id": 2,
+        "ru": "пока",
+        "uz": "xayr",
+        "description": "Xayr, odamni ajratish uchun ishlatiladigan so'z.",
+        "icon": "<i class='fas fa-sign-out-alt'></i>"
+      },
+      {
+        "id": 3,
+        "ru": "дом",
+        "uz": "uy",
+        "description": "Odamlar yashaydigan joy, xonadon.",
+        "icon": "<i class='fas fa-home'></i>"
+      },
+      {
+        "id": 4,
+        "ru": "машина",
+        "uz": "mashina",
+        "description": "Odamlarni tashish uchun ishlatiladigan transport vositasi.",
+        "icon": "<i class='fas fa-car'></i>"
+      },
+      {
+        "id": 5,
+        "ru": "работа",
+        "uz": "ish",
+        "description": "Odamning bajaradigan mehnati yoki professional faoliyati.",
+        "icon": "<i class='fas fa-briefcase'></i>"
+      },
+      {
+        "id": 6,
+        "ru": "учёба",
+        "uz": "o'qish",
+        "description": "O'qish, bilim olish jarayoni.",
+        "icon": "<i class='fas fa-book'></i>"
+      },
+      {
+        "id": 7,
+        "ru": "любовь",
+        "uz": "sevgi",
+        "description": "Ikkita odam o'rtasidagi chuqur his-tuyg'u va mehr.",
+        "icon": "<i class='fas fa-heart'></i>"
+      },
+      {
+        "id": 8,
+        "ru": "счастье",
+        "uz": "baxt",
+        "description": "Ishonch va zavqni keltiruvchi holat.",
+        "icon": "<i class='fas fa-smile'></i>"
+      },
+      {
+        "id": 9,
+        "ru": "друзья",
+        "uz": "do'stlar",
+        "description": "Odamlar o'rtasidagi yaqin, do'stona aloqalar.",
+        "icon": "<i class='fas fa-users'></i>"
+      },
+      {
+        "id": 10,
+        "ru": "семья",
+        "uz": "oilа",
+        "description": "O'zaro bog'langan odamlar to'plami, odatda ota-ona va bolalar.",
+        "icon": "<i class='fas fa-user-friends'></i>"
+      },
+      {
+        "id": 11,
+        "ru": "еда",
+        "uz": "taom",
+        "description": "Ishlatiladigan ovqatlar yoki ichimliklar.",
+        "icon": "<i class='fas fa-utensils'></i>"
+      },
+      {
+        "id": 12,
+        "ru": "вода",
+        "uz": "suv",
+        "description": "Hayot uchun zarur bo'lgan suyuqlik.",
+        "icon": "<i class='fas fa-tint'></i>"
+      },
+      {
+        "id": 13,
+        "ru": "солнце",
+        "uz": "quyosh",
+        "description": "Yerga eng yaqin yulduz va hayot manbai.",
+        "icon": "<i class='fas fa-sun'></i>"
+      },
+      {
+        "id": 14,
+        "ru": "ночь",
+        "uz": "tung",
+        "description": "Kun davomida qorong'i bo'ladigan vaqt.",
+        "icon": "<i class='fas fa-moon'></i>"
+      },
+      {
+        "id": 15,
+        "ru": "день",
+        "uz": "kun",
+        "description": "Kun davomida yorug'lik bo'lgan vaqt.",
+        "icon": "<i class='fas fa-sun'></i>"
+      },
+      {
+        "id": 16,
+        "ru": "книга",
+        "uz": "kitob",
+        "description": "Yozma yoki chop etilgan materialni o'qish uchun ishlatiladigan nashr.",
+        "icon": "<i class='fas fa-book'></i>"
+      },
+      {
+        "id": 17,
+        "ru": "письмо",
+        "uz": "xat",
+        "description": "Kimnidir xabardor qilish yoki fikr bildirish uchun yozilgan matn.",
+        "icon": "<i class='fas fa-envelope'></i>"
+      },
+      {
+        "id": 18,
+        "ru": "игра",
+        "uz": "o'yin",
+        "description": "Ko'ngilochar faoliyat yoki o'yinlar.",
+        "icon": "<i class='fas fa-gamepad'></i>"
+      },
+      {
+        "id": 19,
+        "ru": "песня",
+        "uz": "qo'shiq",
+        "description": "Musika va so'zlardan iborat musiqiy asar.",
+        "icon": "<i class='fas fa-music'></i>"
+      },
+      {
+        "id": 20,
+        "ru": "деньги",
+        "uz": "pul",
+        "description": "Savdo va iqtisodiy faoliyatda foydalaniladigan vosita.",
+        "icon": "<i class='fas fa-dollar-sign'></i>"
+      },
+      {
+        "id": 21,
+        "ru": "погода",
+        "uz": "havo",
+        "description": "Tabiatdagi atmosfera holati, ob-havo.",
+        "icon": "<i class='fas fa-cloud-sun'></i>"
+      },
+      {
+        "id": 22,
+        "ru": "город",
+        "uz": "shahar",
+        "description": "Kengaygan va rivojlangan yashash joyi.",
+        "icon": "<i class='fas fa-city'></i>"
+      },
+      {
+        "id": 23,
+        "ru": "собака",
+        "uz": "it",
+        "description": "Uy hayvoni, odatda odamga do'st va yordamchi.",
+        "icon": "<i class='fas fa-dog'></i>"
+      },
+      {
+        "id": 24,
+        "ru": "кот",
+        "uz": "mushuk",
+        "description": "Uy hayvoni, odatda odamlar bilan yashaydi.",
+        "icon": "<i class='fas fa-cat'></i>"
+      },
+      {
+        "id": 25,
+        "ru": "птица",
+        "uz": "qush",
+        "description": "Havo orqali uchadigan hayvon.",
+        "icon": "<i class='fas fa-dove'></i>"
+      },
+      {
+        "id": 26,
+        "ru": "солнце",
+        "uz": "quyosh",
+        "description": "Yerga eng yaqin yulduz, hayot manbai.",
+        "icon": "<i class='fas fa-sun'></i>"
+      },
+      {
+        "id": 27,
+        "ru": "яблоко",
+        "uz": "olma",
+        "description": "Yashil yoki qizil rangdagi meva.",
+        "icon": "<i class='fas fa-apple-alt'></i>"
+      },
+      {
+        "id": 28,
+        "ru": "друзья",
+        "uz": "do'stlar",
+        "description": "Ya'ni odamlar o'rtasidagi yaqin do'stlik munosabatlari.",
+        "icon": "<i class='fas fa-users'></i>"
+      },
+      {
+        "id": 29,
+        "ru": "работа",
+        "uz": "ish",
+        "description": "Mehnat va professional faoliyat.",
+        "icon": "<i class='fas fa-briefcase'></i>"
+      },
+      {
+        "id": 30,
+        "ru": "дерево",
+        "uz": "daraxt",
+        "description": "Yashil o'simlik, ko'pincha uzun bo'yli va shtambli.",
+        "icon": "<i class='fas fa-tree'></i>"
+      },
+      {
+        "id": 31,
+        "ru": "собака",
+        "uz": "it",
+        "description": "Uyning do'st hayvoni, ko'plab navlar mavjud.",
+        "icon": "<i class='fas fa-dog'></i>"
+      },
+      {
+        "id": 32,
+        "ru": "молоко",
+        "uz": "sut",
+        "description": "Hayvonlardan olinadigan suyuqlik, asosan ichimlik sifatida ishlatiladi.",
+        "icon": "<i class='fas fa-glass-whiskey'></i>"
+      },
+      {
+        "id": 33,
+        "ru": "книга",
+        "uz": "kitob",
+        "description": "Yozma va chop etilgan material, bilim olish manbai.",
+        "icon": "<i class='fas fa-book'></i>"
+      },
+      {
+        "id": 34,
+        "ru": "письмо",
+        "uz": "xat",
+        "description": "Boshqa odamga xabar yuborish uchun yozilgan matn.",
+        "icon": "<i class='fas fa-envelope'></i>"
+      },
+      {
+        "id": 35,
+        "ru": "праздник",
+        "uz": "bayram",
+        "description": "Maxsus kun yoki tadbir, odatda yaxshi kayfiyat va to'plam.",
+        "icon": "<i class='fas fa-cake'></i>"
+      },
+      {
+        "id": 36,
+        "ru": "игра",
+        "uz": "o'yin",
+        "description": "Ko'ngilochar faoliyat yoki o'yinlar.",
+        "icon": "<i class='fas fa-gamepad'></i>"
+      },
+      {
+        "id": 37,
+        "ru": "работа",
+        "uz": "ish",
+        "description": "Bajariladigan mehnat yoki professional faoliyat.",
+        "icon": "<i class='fas fa-briefcase'></i>"
+      },
+      {
+        "id": 38,
+        "ru": "отпуск",
+        "uz": "ta'til",
+        "description": "Dam olish uchun ajratilgan vaqt.",
+        "icon": "<i class='fas fa-suitcase'></i>"
+      },
+      {
+        "id": 39,
+        "ru": "поезд",
+        "uz": "poezd",
+        "description": "Temiryo'l transporti bilan sayohat qilish.",
+        "icon": "<i class='fas fa-train'></i>"
+      },
+      {
+        "id": 40,
+        "ru": "часы",
+        "uz": "soat",
+        "description": "Vaqt o'lchovchi asbob, qo'l soati yoki devor soati.",
+        "icon": "<i class='fas fa-clock'></i>"
+      },
+      {
+        "id": 41,
+        "ru": "свет",
+        "uz": "yorug'lik",
+        "description": "Kundalik yoki sun'iy yorug'lik.",
+        "icon": "<i class='fas fa-lightbulb'></i>"
+      },
+      {
+        "id": 42,
+        "ru": "улица",
+        "uz": "ko'cha",
+        "description": "Tashqi joy, shahar yoki qishloqdagi yo'l.",
+        "icon": "<i class='fas fa-road'></i>"
+      },
+      {
+        "id": 43,
+        "ru": "магазин",
+        "uz": "do'kon",
+        "description": "Tovarlar sotiladigan joy.",
+        "icon": "<i class='fas fa-store'></i>"
+      },
+      {
+        "id": 44,
+        "ru": "работа",
+        "uz": "ish",
+        "description": "Mehnat va professional faoliyat.",
+        "icon": "<i class='fas fa-briefcase'></i>"
+      },
+      {
+        "id": 45,
+        "ru": "птица",
+        "uz": "qush",
+        "description": "Havo orqali uchadigan hayvon.",
+        "icon": "<i class='fas fa-dove'></i>"
+      },
+      {
+        "id": 46,
+        "ru": "кино",
+        "uz": "kino",
+        "description": "Filmni tomosha qilish joyi.",
+        "icon": "<i class='fas fa-film'></i>"
+      },
+      {
+        "id": 47,
+        "ru": "транспорт",
+        "uz": "transport",
+        "description": "Odamlar va yuklarni harakatlantirish uchun vosita.",
+        "icon": "<i class='fas fa-bus'></i>"
+      },
+      {
+        "id": 48,
+        "ru": "площадь",
+        "uz": "maydon",
+        "description": "Shahar yoki qishloqdagi ochiq joy.",
+        "icon": "<i class='fas fa-square'></i>"
+      },
+      {
+        "id": 49,
+        "ru": "ресторан",
+        "uz": "restoran",
+        "description": "Ovqatlanish joyi, odamlar ovqatlanish uchun keladi.",
+        "icon": "<i class='fas fa-utensils'></i>"
+      },
+      {
+        "id": 50,
+        "ru": "школа",
+        "uz": "maktab",
+        "description": "Bolalar yoki yoshlarni o'qitish uchun tashkilot.",
+        "icon": "<i class='fas fa-school'></i>"
+      },
+      {
+        "id": 51,
+        "ru": "стол",
+        "uz": "stol",
+        "description": "Odamlar ishlash yoki ovqatlanish uchun foydalanadigan mebel.",
+        "icon": "<i class='fas fa-table'></i>"
+      },
+      {
+        "id": 52,
+        "ru": "стул",
+        "uz": "stul",
+        "description": "O'tirish uchun mo'ljallangan mebel.",
+        "icon": "<i class='fas fa-chair'></i>"
+      },
+      {
+        "id": 53,
+        "ru": "окно",
+        "uz": "deraza",
+        "description": "Xonani tashqaridan ajratish uchun ishlatiladigan shisha ramka.",
+        "icon": "<i class='fas fa-window-maximize'></i>"
+      },
+      {
+        "id": 54,
+        "ru": "дверь",
+        "uz": "eshik",
+        "description": "Xonaga kirish va chiqish uchun mo'ljallangan qurilma.",
+        "icon": "<i class='fas fa-door-open'></i>"
+      },
+      {
+        "id": 55,
+        "ru": "собака",
+        "uz": "it",
+        "description": "Uy hayvoni, odamga yordamchi yoki do'st.",
+        "icon": "<i class='fas fa-dog'></i>"
+      },
+      {
+        "id": 56,
+        "ru": "кошка",
+        "uz": "mushuk",
+        "description": "Uy hayvoni, odatda odamlar bilan yashaydi.",
+        "icon": "<i class='fas fa-cat'></i>"
+      },
+      {
+        "id": 57,
+        "ru": "птица",
+        "uz": "qush",
+        "description": "Havo orqali uchadigan hayvon.",
+        "icon": "<i class='fas fa-dove'></i>"
+      },
+      {
+        "id": 58,
+        "ru": "рыба",
+        "uz": "baliq",
+        "description": "Suvda yashaydigan hayvon, odatda ovqat sifatida ishlatiladi.",
+        "icon": "<i class='fas fa-fish'></i>"
+      },
+      {
+        "id": 59,
+        "ru": "цветок",
+        "uz": "gul",
+        "description": "O'simliklar hayotining rangli qismlari.",
+        "icon": "<i class='fas fa-flower'></i>"
+      },
+      {
+        "id": 60,
+        "ru": "дерево",
+        "uz": "daraxt",
+        "description": "Yashil o'simlik, ko'pincha uzun bo'yli va shtambli.",
+        "icon": "<i class='fas fa-tree'></i>"
+      },
+      {
+        "id": 61,
+        "ru": "машина",
+        "uz": "mashina",
+        "description": "Odamlarni yoki yuklarni tashish uchun transport vositasi.",
+        "icon": "<i class='fas fa-car'></i>"
+      },
+      {
+        "id": 62,
+        "ru": "поезд",
+        "uz": "poezd",
+        "description": "Temiryo'l transporti bilan sayohat qilish.",
+        "icon": "<i class='fas fa-train'></i>"
+      },
+      {
+        "id": 63,
+        "ru": "автобус",
+        "uz": "avtobus",
+        "description": "Odamlar uchun mo'ljallangan katta transport vositasi.",
+        "icon": "<i class='fas fa-bus'></i>"
+      },
+      {
+        "id": 64,
+        "ru": "велосипед",
+        "uz": "velosiped",
+        "description": "Ikki g'ildirakli transport vositasi, odam tomonidan pedallangan.",
+        "icon": "<i class='fas fa-bicycle'></i>"
+      },
+      {
+        "id": 65,
+        "ru": "площадь",
+        "uz": "maydon",
+        "description": "Shahar yoki qishloqdagi katta ochiq joy.",
+        "icon": "<i class='fas fa-square'></i>"
+      },
+      {
+        "id": 66,
+        "ru": "улица",
+        "uz": "ko'cha",
+        "description": "Shahar yoki qishloqdagi ochiq yo'l.",
+        "icon": "<i class='fas fa-road'></i>"
+      },
+      {
+        "id": 67,
+        "ru": "магазин",
+        "uz": "do'kon",
+        "description": "Mahsulotlar sotiladigan joy.",
+        "icon": "<i class='fas fa-store'></i>"
+      },
+      {
+        "id": 68,
+        "ru": "ресторан",
+        "uz": "restoran",
+        "description": "Ovqatlanish joyi, odamlar ovqatlanish uchun keladi.",
+        "icon": "<i class='fas fa-utensils'></i>"
+      },
+      {
+        "id": 69,
+        "ru": "кафе",
+        "uz": "kafe",
+        "description": "Kichik ovqatlanish joyi, odatda ichimliklar va yengil taomlar taklif qiladi.",
+        "icon": "<i class='fas fa-coffee'></i>"
+      },
+      {
+        "id": 70,
+        "ru": "школа",
+        "uz": "maktab",
+        "description": "Bolalar yoki yoshlarni o'qitish uchun tashkilot.",
+        "icon": "<i class='fas fa-school'></i>"
+      },
+      {
+        "id": 71,
+        "ru": "университет",
+        "uz": "universitet",
+        "description": "Oliy ta'lim muassasasi, oliy darajadagi bilim beruvchi tashkilot.",
+        "icon": "<i class='fas fa-university'></i>"
+      },
+      {
+        "id": 72,
+        "ru": "больница",
+        "uz": "kasalxona",
+        "description": "Kasalliklarni davolash va bemorlarni qabul qilish joyi.",
+        "icon": "<i class='fas fa-hospital'></i>"
+      },
+      {
+        "id": 73,
+        "ru": "аптека",
+        "uz": "apteka",
+        "description": "Dori-darmonlar sotiladigan joy.",
+        "icon": "<i class='fas fa-pills'></i>"
+      },
+      {
+        "id": 74,
+        "ru": "поле",
+        "uz": "dalа",
+        "description": "Keng maydon, odatda qishloq joylari yoki ekinlar uchun.",
+        "icon": "<i class='fas fa-corn'></i>"
+      },
+      {
+        "id": 75,
+        "ru": "гора",
+        "uz": "tog'",
+        "description": "Yer yuzasining baland, qiyalikli qismi.",
+        "icon": "<i class='fas fa-mountain'></i>"
+      },
+      {
+        "id": 76,
+        "ru": "море",
+        "uz": "mo'jaro",
+        "description": "Katta suv havzasi, odatda dengiz bo'yida joylashgan.",
+        "icon": "<i class='fas fa-water'></i>"
+      },
+      {
+        "id": 77,
+        "ru": "океан",
+        "uz": "okean",
+        "description": "Yer yuzasining eng katta suv havzasi.",
+        "icon": "<i class='fas fa-water'></i>"
+      },
+      {
+        "id": 78,
+        "ru": "солнце",
+        "uz": "quyosh",
+        "description": "Yerga eng yaqin yulduz, hayot manbai.",
+        "icon": "<i class='fas fa-sun'></i>"
+      },
+      {
+        "id": 79,
+        "ru": "облако",
+        "uz": "bulut",
+        "description": "Havo tarkibidagi suyuqlik yoki muzning yuqori qatlamlari.",
+        "icon": "<i class='fas fa-cloud'></i>"
+      },
+      {
+        "id": 80,
+        "ru": "дождь",
+        "uz": "yomg'ir",
+        "description": "Havo namligidan hosil bo'lgan suyuqlik.",
+        "icon": "<i class='fas fa-cloud-rain'></i>"
+      },
+      {
+        "id": 81,
+        "ru": "снег",
+        "uz": "qar",
+        "description": "Sovuq havo sharoitida muzli suyuqlik.",
+        "icon": "<i class='fas fa-snowflake'></i>"
+      },
+      {
+        "id": 82,
+        "ru": "ветер",
+        "uz": "shamol",
+        "description": "Havoning harakatlanishi.",
+        "icon": "<i class='fas fa-wind'></i>"
+      },
+      {
+        "id": 83,
+        "ru": "погода",
+        "uz": "havo",
+        "description": "Tabiatdagi atmosfera holati, ob-havo.",
+        "icon": "<i class='fas fa-cloud-sun'></i>"
+      },
+      {
+        "id": 84,
+        "ru": "книга",
+        "uz": "kitob",
+        "description": "Yozma yoki chop etilgan materialni o'qish uchun ishlatiladigan nashr.",
+        "icon": "<i class='fas fa-book'></i>"
+      },
+      {
+        "id": 85,
+        "ru": "журнал",
+        "uz": "jurnal",
+        "description": "Chop etilgan nashr, odatda yangi ma'lumotlar bilan.",
+        "icon": "<i class='fas fa-newspaper'></i>"
+      },
+      {
+        "id": 86,
+        "ru": "газета",
+        "uz": "gazeta",
+        "description": "Kunlik yoki haftalik nashr.",
+        "icon": "<i class='fas fa-newspaper'></i>"
+      },
+      {
+        "id": 87,
+        "ru": "телевизор",
+        "uz": "televideniye",
+        "description": "Rasmli va ovozli axborot vositasi.",
+        "icon": "<i class='fas fa-tv'></i>"
+      },
+      {
+        "id": 88,
+        "ru": "компьютер",
+        "uz": "kompyuter",
+        "description": "Ma'lumotlarni qayta ishlash va saqlash uchun elektron qurilma.",
+        "icon": "<i class='fas fa-laptop'></i>"
+      },
+      {
+        "id": 89,
+        "ru": "телефон",
+        "uz": "telefon",
+        "description": "Ovozli aloqa vositasi.",
+        "icon": "<i class='fas fa-phone'></i>"
+      },
+      {
+        "id": 90,
+        "ru": "интернет",
+        "uz": "internet",
+        "description": "Global tarmoq orqali ma'lumotlar almashish.",
+        "icon": "<i class='fas fa-wifi'></i>"
+      },
+      {
+        "id": 91,
+        "ru": "сеть",
+        "uz": "tarmoq",
+        "description": "Odamlar yoki qurilmalar o'rtasidagi aloqalar tizimi.",
+        "icon": "<i class='fas fa-network-wired'></i>"
+      },
+      {
+        "id": 92,
+        "ru": "почта",
+        "uz": "pochta",
+        "description": "Xat va paketlarni jo'natish va qabul qilish xizmati.",
+        "icon": "<i class='fas fa-mail-bulk'></i>"
+      },
+      {
+        "id": 93,
+        "ru": "письмо",
+        "uz": "xat",
+        "description": "Kimnidir xabardor qilish yoki fikr bildirish uchun yozilgan matn.",
+        "icon": "<i class='fas fa-envelope'></i>"
+      },
+      {
+        "id": 94,
+        "ru": "почтовый ящик",
+        "uz": "pochtabox",
+        "description": "Xatlarni va xabarlarni olish uchun joy.",
+        "icon": "<i class='fas fa-inbox'></i>"
+      },
+      {
+        "id": 95,
+        "ru": "письмо",
+        "uz": "xat",
+        "description": "Xabarni yuborish uchun yozilgan matn.",
+        "icon": "<i class='fas fa-envelope'></i>"
+      }
+    ]
+  }
+  
