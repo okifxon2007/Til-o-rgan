@@ -1,4 +1,4 @@
-git import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Header from '../../Components/Header/Header'
 import datatwo from '../../Data/datatwo.json'
 
