@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from '../../Components/Header/Header';
-import data from '../../Data/data.json'
+import data from '../../Data/datatwo.json'
 const Ruslugat = () => {
     const [datas, setdatas] = useState([])
     const [moduledatas, setmoduledatas] = useState([])
